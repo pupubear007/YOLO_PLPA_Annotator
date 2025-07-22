@@ -1,0 +1,2 @@
+0: fungal_lesion
+1: healthy
