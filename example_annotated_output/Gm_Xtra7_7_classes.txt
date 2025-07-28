@@ -1,0 +1,3 @@
+0: label_sticker
+1: fungal_lesion
+2: healthy
